@@ -235,11 +235,6 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
 Overfull \hbox (7.2579pt too wide) in paragraph at lines 89--90
 []\OT1/cmr/bx/n/10 Secretary\OT1/cmr/m/n/10 (2015-2016) `As-so-ci-a-tion of Com
 -put-ing Ma-chin-ery (ACM)- Stu-dent Chap-ter' at M.A.I.T 
@@ -271,7 +266,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (2 pages, 102226 bytes).
+Output written on Resume.pdf (2 pages, 102233 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
