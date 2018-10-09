@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.9)  9 OCT 2018 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.9)  10 OCT 2018 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,32 +238,33 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 126.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 138.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 5061 strings out of 492649
- 75676 string characters out of 6129623
- 167432 words of memory out of 5000000
- 8954 multiletter control sequences out of 15000+600000
- 5507 words of font info for 20 fonts, out of 8000000 for 9000
+ 5064 strings out of 492649
+ 75715 string characters out of 6129623
+ 168432 words of memory out of 5000000
+ 8956 multiletter control sequences out of 15000+600000
+ 5675 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,11n,24p,668b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,24p,668b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (2 pages, 108686 bytes).
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Resume.pdf (2 pages, 120620 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
